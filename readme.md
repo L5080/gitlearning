@@ -12,7 +12,7 @@ This repository is used for Git practice. The repository contains examples for:
 
 # Repository address
 
-The repository is accessible with a browser through (https://github.com/L5080/gitlearning.git)
+The repository is accessable with a browser through (https://github.com/L5080/gitlearning.git)
 
 The repository can be cloned with
 ```
